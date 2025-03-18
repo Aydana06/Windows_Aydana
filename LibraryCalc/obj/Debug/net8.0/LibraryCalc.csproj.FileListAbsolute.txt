@@ -20,3 +20,15 @@ C:\Users\Lenovo\Documents\3th_COURSE\04_Windows\LibraryCalc\obj\Debug\net8.0\Lib
 C:\Users\Lenovo\Documents\3th_COURSE\04_Windows\LibraryCalc\obj\Debug\net8.0\refint\LibraryCalc.dll
 C:\Users\Lenovo\Documents\3th_COURSE\04_Windows\LibraryCalc\obj\Debug\net8.0\LibraryCalc.pdb
 C:\Users\Lenovo\Documents\3th_COURSE\04_Windows\LibraryCalc\obj\Debug\net8.0\ref\LibraryCalc.dll
+C:\Users\Lenovo\Documents\Windows_Aydana\LibraryCalc\bin\Debug\net8.0\LibraryCalc.deps.json
+C:\Users\Lenovo\Documents\Windows_Aydana\LibraryCalc\bin\Debug\net8.0\LibraryCalc.dll
+C:\Users\Lenovo\Documents\Windows_Aydana\LibraryCalc\bin\Debug\net8.0\LibraryCalc.pdb
+C:\Users\Lenovo\Documents\Windows_Aydana\LibraryCalc\obj\Debug\net8.0\LibraryCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Windows_Aydana\LibraryCalc\obj\Debug\net8.0\LibraryCalc.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Windows_Aydana\LibraryCalc\obj\Debug\net8.0\LibraryCalc.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Windows_Aydana\LibraryCalc\obj\Debug\net8.0\LibraryCalc.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Windows_Aydana\LibraryCalc\obj\Debug\net8.0\LibraryCalc.sourcelink.json
+C:\Users\Lenovo\Documents\Windows_Aydana\LibraryCalc\obj\Debug\net8.0\LibraryCalc.dll
+C:\Users\Lenovo\Documents\Windows_Aydana\LibraryCalc\obj\Debug\net8.0\refint\LibraryCalc.dll
+C:\Users\Lenovo\Documents\Windows_Aydana\LibraryCalc\obj\Debug\net8.0\LibraryCalc.pdb
+C:\Users\Lenovo\Documents\Windows_Aydana\LibraryCalc\obj\Debug\net8.0\ref\LibraryCalc.dll

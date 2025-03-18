@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BNp9kJwO3kI=",
+  "dgSpecHash": "V8I0A/UfPv8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\04_Windows\\TestCalculator1\\TestCalculator1.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\Documents\\Windows_Aydana\\TestCalculator1\\TestCalculator1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",

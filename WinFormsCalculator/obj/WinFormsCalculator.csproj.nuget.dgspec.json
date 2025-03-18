@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\04_Windows\\WinFormsCalculator\\WinFormsCalculator.csproj": {}
+    "C:\\Users\\Lenovo\\Documents\\Windows_Aydana\\WinFormsCalculator\\WinFormsCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\04_Windows\\LibraryCalc\\LibraryCalc.csproj": {
+    "C:\\Users\\Lenovo\\Documents\\Windows_Aydana\\LibraryCalc\\LibraryCalc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\04_Windows\\LibraryCalc\\LibraryCalc.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\Windows_Aydana\\LibraryCalc\\LibraryCalc.csproj",
         "projectName": "LibraryCalc",
-        "projectPath": "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\04_Windows\\LibraryCalc\\LibraryCalc.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Documents\\Windows_Aydana\\LibraryCalc\\LibraryCalc.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\04_Windows\\LibraryCalc\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Documents\\Windows_Aydana\\LibraryCalc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\04_Windows\\WinFormsCalculator\\WinFormsCalculator.csproj": {
+    "C:\\Users\\Lenovo\\Documents\\Windows_Aydana\\WinFormsCalculator\\WinFormsCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\04_Windows\\WinFormsCalculator\\WinFormsCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\Windows_Aydana\\WinFormsCalculator\\WinFormsCalculator.csproj",
         "projectName": "WinFormsCalculator",
-        "projectPath": "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\04_Windows\\WinFormsCalculator\\WinFormsCalculator.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Documents\\Windows_Aydana\\WinFormsCalculator\\WinFormsCalculator.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\04_Windows\\WinFormsCalculator\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Documents\\Windows_Aydana\\WinFormsCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -99,8 +99,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\04_Windows\\LibraryCalc\\LibraryCalc.csproj": {
-                "projectPath": "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\04_Windows\\LibraryCalc\\LibraryCalc.csproj"
+              "C:\\Users\\Lenovo\\Documents\\Windows_Aydana\\LibraryCalc\\LibraryCalc.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\Windows_Aydana\\LibraryCalc\\LibraryCalc.csproj"
               }
             }
           }
