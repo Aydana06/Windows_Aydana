@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1_calc", "Lab1_calc.csproj", "{874AD5ED-EA17-404C-B11F-71FB4FC2AFFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCalculator1", "..\TestCalculator1\TestCalculator1.csproj", "{E03BB4EE-4FB5-4D08-9D29-FFE40308E7FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryCalc", "..\LibraryCalc\LibraryCalc.csproj", "{DC29CA93-3BE8-4334-BCFF-CED7617E48AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsCalculator", "..\WinFormsCalculator\WinFormsCalculator.csproj", "{6C30C05C-392B-4FED-9FEA-B4A08BA20195}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +21,23 @@ Global
 		{874AD5ED-EA17-404C-B11F-71FB4FC2AFFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{874AD5ED-EA17-404C-B11F-71FB4FC2AFFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{874AD5ED-EA17-404C-B11F-71FB4FC2AFFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E03BB4EE-4FB5-4D08-9D29-FFE40308E7FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E03BB4EE-4FB5-4D08-9D29-FFE40308E7FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E03BB4EE-4FB5-4D08-9D29-FFE40308E7FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E03BB4EE-4FB5-4D08-9D29-FFE40308E7FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC29CA93-3BE8-4334-BCFF-CED7617E48AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC29CA93-3BE8-4334-BCFF-CED7617E48AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC29CA93-3BE8-4334-BCFF-CED7617E48AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC29CA93-3BE8-4334-BCFF-CED7617E48AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C30C05C-392B-4FED-9FEA-B4A08BA20195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C30C05C-392B-4FED-9FEA-B4A08BA20195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C30C05C-392B-4FED-9FEA-B4A08BA20195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C30C05C-392B-4FED-9FEA-B4A08BA20195}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51707D7D-ECA8-4FAE-930D-A48E960BB10C}
 	EndGlobalSection
 EndGlobal

@@ -1,30 +1,28 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\Windows\\Lab1_calc\\",
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\04_Windows\\Lab1_calc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{874AD5ED-EA17-404C-B11F-71FB4FC2AFFA}|Lab1_calc.csproj|c:\\users\\lenovo\\documents\\3th_course\\windows\\lab1_calc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{874AD5ED-EA17-404C-B11F-71FB4FC2AFFA}|Lab1_calc.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E03BB4EE-4FB5-4D08-9D29-FFE40308E7FB}|..\\TestCalculator1\\TestCalculator1.csproj|c:\\users\\lenovo\\documents\\3th_course\\04_windows\\testcalculator1\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{874AD5ED-EA17-404C-B11F-71FB4FC2AFFA}|Lab1_calc.csproj|c:\\users\\lenovo\\documents\\3th_course\\windows\\lab1_calc\\memory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{874AD5ED-EA17-404C-B11F-71FB4FC2AFFA}|Lab1_calc.csproj|solutionrelative:memory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C30C05C-392B-4FED-9FEA-B4A08BA20195}|..\\WinFormsCalculator\\WinFormsCalculator.csproj|c:\\users\\lenovo\\documents\\3th_course\\04_windows\\winformscalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{874AD5ED-EA17-404C-B11F-71FB4FC2AFFA}|Lab1_calc.csproj|c:\\users\\lenovo\\documents\\3th_course\\windows\\lab1_calc\\memoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{874AD5ED-EA17-404C-B11F-71FB4FC2AFFA}|Lab1_calc.csproj|solutionrelative:memoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C30C05C-392B-4FED-9FEA-B4A08BA20195}|..\\WinFormsCalculator\\WinFormsCalculator.csproj|c:\\users\\lenovo\\documents\\3th_course\\04_windows\\winformscalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{874AD5ED-EA17-404C-B11F-71FB4FC2AFFA}|Lab1_calc.csproj|c:\\users\\lenovo\\documents\\3th_course\\windows\\lab1_calc\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{874AD5ED-EA17-404C-B11F-71FB4FC2AFFA}|Lab1_calc.csproj|solutionrelative:interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC29CA93-3BE8-4334-BCFF-CED7617E48AA}|..\\LibraryCalc\\LibraryCalc.csproj|c:\\users\\lenovo\\documents\\3th_course\\04_windows\\librarycalc\\memory\\memoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{874AD5ED-EA17-404C-B11F-71FB4FC2AFFA}|Lab1_calc.csproj|c:\\users\\lenovo\\documents\\3th_course\\windows\\lab1_calc\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{874AD5ED-EA17-404C-B11F-71FB4FC2AFFA}|Lab1_calc.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC29CA93-3BE8-4334-BCFF-CED7617E48AA}|..\\LibraryCalc\\LibraryCalc.csproj|c:\\users\\lenovo\\documents\\3th_course\\04_windows\\librarycalc\\memory\\memory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{874AD5ED-EA17-404C-B11F-71FB4FC2AFFA}|Lab1_calc.csproj|c:\\users\\lenovo\\documents\\3th_course\\windows\\lab1_calc\\abstractclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{874AD5ED-EA17-404C-B11F-71FB4FC2AFFA}|Lab1_calc.csproj|solutionrelative:abstractclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{874AD5ED-EA17-404C-B11F-71FB4FC2AFFA}|Lab1_calc.csproj|c:\\users\\lenovo\\documents\\3th_course\\04_windows\\lab1_calc\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874AD5ED-EA17-404C-B11F-71FB4FC2AFFA}|Lab1_calc.csproj|solutionrelative:program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC29CA93-3BE8-4334-BCFF-CED7617E48AA}|..\\LibraryCalc\\LibraryCalc.csproj|c:\\users\\lenovo\\documents\\3th_course\\04_windows\\librarycalc\\calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +32,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 320,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\04_Windows\\Lab1_calc\\Program\\Program.cs",
+              "RelativeDocumentMoniker": "Program\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\04_Windows\\Lab1_calc\\Program\\Program.cs",
+              "RelativeToolTip": "Program\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T17:48:40.017Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\04_Windows\\LibraryCalc\\Calculator\\Calculator.cs",
+              "RelativeDocumentMoniker": "..\\LibraryCalc\\Calculator\\Calculator.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\04_Windows\\LibraryCalc\\Calculator\\Calculator.cs",
+              "RelativeToolTip": "..\\LibraryCalc\\Calculator\\Calculator.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAkwFEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:14:44.082Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Memory.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\04_Windows\\LibraryCalc\\Memory\\Memory.cs",
+              "RelativeDocumentMoniker": "..\\LibraryCalc\\Memory\\Memory.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\04_Windows\\LibraryCalc\\Memory\\Memory.cs",
+              "RelativeToolTip": "..\\LibraryCalc\\Memory\\Memory.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:15:06.869Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MemoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\04_Windows\\LibraryCalc\\Memory\\MemoryItem.cs",
+              "RelativeDocumentMoniker": "..\\LibraryCalc\\Memory\\MemoryItem.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\04_Windows\\LibraryCalc\\Memory\\MemoryItem.cs",
+              "RelativeToolTip": "..\\LibraryCalc\\Memory\\MemoryItem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:15:13.101Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\04_Windows\\TestCalculator1\\Test1.cs",
+              "RelativeDocumentMoniker": "..\\TestCalculator1\\Test1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\04_Windows\\TestCalculator1\\Test1.cs",
+              "RelativeToolTip": "..\\TestCalculator1\\Test1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:15:27.885Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\04_Windows\\WinFormsCalculator\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\WinFormsCalculator\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\04_Windows\\WinFormsCalculator\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\WinFormsCalculator\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:15:56.636Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -58,80 +137,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Interface1.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\Windows\\Lab1_calc\\Interface1.cs",
-              "RelativeDocumentMoniker": "Interface1.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\Windows\\Lab1_calc\\Interface1.cs",
-              "RelativeToolTip": "Interface1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T07:26:03.996Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MemoryItem.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\Windows\\Lab1_calc\\MemoryItem.cs",
-              "RelativeDocumentMoniker": "MemoryItem.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\Windows\\Lab1_calc\\MemoryItem.cs",
-              "RelativeToolTip": "MemoryItem.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T07:13:00.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Memory.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\Windows\\Lab1_calc\\Memory.cs",
-              "RelativeDocumentMoniker": "Memory.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\Windows\\Lab1_calc\\Memory.cs",
-              "RelativeToolTip": "Memory.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAAJAAAAAAAAAA==",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\04_Windows\\WinFormsCalculator\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\WinFormsCalculator\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\04_Windows\\WinFormsCalculator\\Form1.cs",
+              "RelativeToolTip": "..\\WinFormsCalculator\\Form1.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAYwN0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T07:12:36.19Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Calculator.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\Windows\\Lab1_calc\\Calculator.cs",
-              "RelativeDocumentMoniker": "Calculator.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\Windows\\Lab1_calc\\Calculator.cs",
-              "RelativeToolTip": "Calculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T07:12:11.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AbstractClass.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\Windows\\Lab1_calc\\AbstractClass.cs",
-              "RelativeDocumentMoniker": "AbstractClass.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\Windows\\Lab1_calc\\AbstractClass.cs",
-              "RelativeToolTip": "AbstractClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T07:11:53.786Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\Windows\\Lab1_calc\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Documents\\3th_COURSE\\Windows\\Lab1_calc\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T17:48:40.017Z",
+              "WhenOpened": "2025-03-13T08:17:11.682Z",
               "EditorCaption": ""
             }
           ]
